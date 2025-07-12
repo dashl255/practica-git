@@ -45,6 +45,8 @@ Este es un proyecto de práctica para crear un sistema básico de facturación u
 ✔️ Funcionalidad base implementada
 🔜 Próximamente: versión con JavaScript y exportación PDF
 
-👨‍💻 Autor
-Diego Ortiz
-📬 Contacto: @dashl255
+## 👨‍💻 Autor
+
+**Diego Ortiz**  
+📬 Contacto: [@dashl255](https://github.com/dashl255)
+
