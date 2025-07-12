@@ -24,9 +24,9 @@ Este es un proyecto de práctica para crear un sistema básico de facturación u
 
 ## 📦 Estructura
 
-/facturacion/
-├── index.html # Interfaz principal
-└── README.md # Archivo descriptivo
+/facturacion/  
+├── index.html # Interfaz principal  
+└── README.md # Archivo descriptivo  
 
 ---
 
