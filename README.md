@@ -41,7 +41,7 @@ Este es un proyecto de práctica para crear un sistema básico de facturación u
 3. Explora las funciones del sistema de facturación.
 
 📌 Estado del proyecto
-🟡 En desarrollo
+🟡 En desarrollo  
 ✔️ Funcionalidad base implementada
 🔜 Próximamente: versión con JavaScript y exportación PDF
 
